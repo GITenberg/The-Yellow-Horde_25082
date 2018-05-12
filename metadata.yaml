@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '8303'
     url: http://www.gutenberg.org/2009/agents/8303
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25082#The-Yellow-Horde
 gutenberg_issued: '2008-04-17'
 gutenberg_type: Text
 identifiers:
