@@ -1,0 +1,34 @@
+_repo: The-Yellow-Horde_25082
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bull, Charles Livingston
+    birthdate: 1874
+    deathdate: 1932
+    gutenberg_agent_id: '9742'
+    url: http://www.gutenberg.org/2009/agents/9742
+covers:
+- cover_type: archival
+  image_path: 25082-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Evarts, Hal G. (Hal George)
+    alias: Evarts, Harry George
+    birthdate: 1887
+    deathdate: 1934
+    gutenberg_agent_id: '8303'
+    url: http://www.gutenberg.org/2009/agents/8303
+description: ''
+gutenberg_issued: '2008-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25082'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wolves -- Fiction'
+- !lcc 'PS'
+title: The Yellow Horde
+url: http://www.gutenberg.org/ebooks/25082
